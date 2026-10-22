@@ -1,0 +1,9 @@
+{
+  "name": "lgs-asistan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LGS Asistan: okul için deneme takibi, optik okuma, rehberlik sistemi",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" }
+}
